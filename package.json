@@ -20,7 +20,9 @@
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
     "ultraviolet-static": "file:Ultraviolet-Static",
-    "expo-cli": "^6.3.106.3.10"
+    "expo-cli": "^6.3.106.3.10",
+    "react-native-web": "^0.19.6",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "eslint": "^8.36.0",
